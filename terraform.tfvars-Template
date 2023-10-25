@@ -1,0 +1,13 @@
+EnvShortName         = "DEV" #or "PROD"
+CompanyAbbreviation  = "MS"
+apim_publisher_name  = "Contoso"
+apim_publisher_email = "John.Doe@Microsofot.com"
+
+
+##################
+# Authentication #
+##################
+azure-subscription-id = ""
+azure-client-id       = ""
+azure-client-secret   = ""
+azure-tenant-id       = ""
